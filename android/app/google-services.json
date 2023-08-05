@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825148335086",
+    "project_id": "aamecom-22dc0",
+    "storage_bucket": "aamecom-22dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825148335086:android:07f22562d445abc60a24ff",
+        "android_client_info": {
+          "package_name": "com.example.am_ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825148335086-tmo20l2qqho0ep7cen97fnka9klagirs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDZACnoSmHfHUs2dAwaE-t0f7vBW4HZ7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825148335086-tmo20l2qqho0ep7cen97fnka9klagirs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
